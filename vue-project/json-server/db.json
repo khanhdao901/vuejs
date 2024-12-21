@@ -1,0 +1,25 @@
+{
+  "product": [
+    {
+      "id": 2,
+      "name": "product 2",
+      "image": "https://picsum.photos/100/100",
+      "price": 200,
+      "category": "san pham 1"
+    },
+    {
+      "name": "San pham 3",
+      "image": "https://picsum.photos/100/100",
+      "price": "300",
+      "category": "san pham 1",
+      "id": 3
+    },
+    {
+      "name": "product 4",
+      "image": "https://picsum.photos/100/100",
+      "price": "400",
+      "category": "san pham 2",
+      "id": 4
+    }
+  ]
+}
